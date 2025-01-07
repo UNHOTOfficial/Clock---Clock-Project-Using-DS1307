@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/63a76ab1-49dd-4f89-8c17-0582faa2ae98)
+
 # Clock Project
 
 This project is a clock application that displays the time on an LCD screen.
